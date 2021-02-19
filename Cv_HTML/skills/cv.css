@@ -1,0 +1,56 @@
+
+  .imgthumb{
+    border: 10px solid #ddd; /* Gray border */
+    border-radius: 4px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+    width: 150px; /* Set a small width */
+    margin-top: -50px;
+    float: right;
+    
+  }
+  .imgicon{
+    
+    width: 40px; /* Set a small width */
+    margin-top: -60px;
+    float: right;
+    
+  }
+  .imgthumb:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+  .description {
+    width: 10px;
+
+  }
+  .p{
+    font-weight: 900;
+    
+  }
+  .iconcont{
+    margin: 25px
+  }
+
+  b{
+      color:#096362!important;
+  }
+  .w3-text-teal{
+      color: #34CFCC!important;
+  }
+  .fontcolor{
+      color: #212F3D!important
+  }
+/* 
+
+  COLOR TITULOS EJ <h5 class="w3-opacity"><b>SAP FI CO PC Freelance Sr.Consultant / Famiq S.R.L</b></h5>
+
+  #096362 */
+
+  /* COLORES DE LOS ICONOS Y LAS FECHAS
+
+  .w3-text-teal, .w3-hover-text-teal:hover
+
+  color: #34CFCC!important */
+
+/* COLOR DE LETRA GENERAL
+
+#212F3D!important */
