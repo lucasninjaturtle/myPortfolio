@@ -1,0 +1,24 @@
+{
+  "homepage": "https://lucasninjaturtle.github.io/myPortfolio",
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "myPortfolio",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d myPortfolio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasninjaturtle/myPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasninjaturtle/myPortfolio/issues"
+  },
+  "homepage": "https://github.com/lucasninjaturtle/myPortfolio#readme"
+}
