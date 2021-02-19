@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "deploy": "gh-pages -d myPortfolio"
+    "deploy": "gh-pages -d gh-pages"
   },
   "repository": {
     "type": "git",
